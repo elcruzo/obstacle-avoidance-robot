@@ -25,6 +25,8 @@ To run this implementation, you need:
 - The `NewPing` library (follow the steps [here](https://github.com/livetronic/Arduino-NewPing) to install the library)
 - The `Servo` library (follow the steps [here](https://github.com/arduino-libraries/Servo.git) to install the library)
 
+Alternatively, you can download the `NewPing` and `Servo` libraries at once [here](https://drive.google.com/drive/folders/1lqiFnQzWBFHUvfqWoi74inQqqap2ES35?usp=sharing).
+
 ## Installation
 
 1. Clone this repository to your local machine:
