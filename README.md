@@ -1,6 +1,8 @@
 # An Obstacle Avoiding Robot in Arduino
 
-Welcome to this repository containing the source code for an Obstacle Avoidance Robot I built with Arduino (A C++ Framework). However, due to the presence of hardware components, the complete kit is necessary to observe the robot in operation. This robot is designed to navigate its environment while identifying and circumventing obstacles in its path. It utilizes various sensors, such as ultrasonic, infrared, or LiDAR, to detect obstacles and then employs algorithms to determine the optimal path to avoid colliding with those obstacles. This enables the robot to move autonomously and safely in complex or cluttered environments without human intervention. Obstacle avoidance robots find applications in areas such as robotics research, autonomous vehicles, industrial automation, and even household robotics like vacuum cleaners and lawnmowers.
+Welcome to this repository containing the source code for an Obstacle Avoidance Robot I built with Arduino (A C++ Framework). This robot is designed to navigate its environment while identifying obstacles in its path. It utilizes an ultrasonic sensor to detect obstacles and then employs the code in this repository to determine the optimal path to avoid colliding with those obstacles.
+
+### Note: Due to the presence of hardware components, the complete Arduino UNO [kit](https://store.arduino.cc/products/arduino-starter-kit-multi-language) is necessary to see the robot in operation.
 
 ## Table of Contents
 
@@ -64,6 +66,8 @@ python3 index.py
 ```
 
 You will see a change show up on the text grid with each click of a button, displaying the result when you perform operations.
+
+ 
 
 ## Contributions
 
