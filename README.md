@@ -1,8 +1,8 @@
 # An Obstacle Avoiding Robot in Arduino
 
-Welcome to this repository containing the source code for an Obstacle Avoidance Robot I built with Arduino (A C++ Framework). This robot is designed to navigate its environment while identifying obstacles in its path. It utilizes an ultrasonic sensor to detect obstacles and then employs the code in this repository to determine the optimal path to avoid colliding with those obstacles.
+Welcome to this repository containing the source code for an Obstacle Avoidance Robot built with Arduino (A C++ Framework).
 
-### Note: Due to the presence of hardware components, the complete Arduino UNO [kit](https://store.arduino.cc/products/arduino-starter-kit-multi-language) is necessary to see the robot in operation.
+Note: Due to the presence of hardware components, the complete Arduino UNO [kit](https://store.arduino.cc/products/arduino-starter-kit-multi-language) is necessary to see the robot in operation.
 
 ## Table of Contents
 
@@ -15,31 +15,31 @@ Welcome to this repository containing the source code for an Obstacle Avoidance 
 
 ## Introduction
 
-The following code embodies a calculator application that features a graphical user interface (GUI), characterized by its simplicity and utilitarian nature.
+This robot is designed to navigate its environment while identifying obstacles in its path. It utilizes an ultrasonic sensor to detect obstacles and then employs the following code to determine the optimal path to avoid colliding with those obstacles.
 
 ## Dependencies
 
 To run this implementation, you need:
 
-- Python 3.x
-- The `tkinter` module (usually included in Python standard library)
+- Arduino IDE
+- The `AFMotor` library (follow the steps [here](https://learn.adafruit.com/adafruit-motor-shield/library-install) to install the library)
+- The `NewPing` library (follow the steps [here](https://github.com/livetronic/Arduino-NewPing) to install the library)
+- The `Servo` library (follow the steps [here](https://github.com/arduino-libraries/Servo.git) to install the library)
 
 ## Installation
 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/elcruzo/gui-calc.git
-   cd gui-calc
+   git clone https://github.com/elcruzo/obstacle-avoidance-robot.git
+   cd obstacle-avoidance-robot
    ```
 
-2. Ensure you have Python 3.x installed. You can check by running:
+2. Ensure you have the Arduino IDE installed. You can check by searching:
+   
+   'Arduino IDE' in the apps list on your machine.
 
-   ```bash
-   python3 --version
-   ```
-
-   If Python is not installed, you can download it from the official [Python website](https://www.python.org/downloads/).
+   If Python is not installed, you can download it from the official [Arduino website](https://www.arduino.cc/en/software/).
 
 ## Usage
 
