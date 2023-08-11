@@ -9,7 +9,6 @@ Note: Due to the presence of hardware components, the complete Arduino UNO [kit]
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Example](#example)
 - [Contributions](#contributions)
 - [License](#license)
 
@@ -54,19 +53,6 @@ To run this implementation, you need:
 4. Upload the `index.ino` sketch to the Arduino UNO using a data-transfer USB-B cord (included in the complete Arduino kit)
 
 5. Upon uploading, you can proceed to see the assembled robot (with the Arduino UNO) in action.
-## Example
-
-Here's a brief example of how to run the code:
-
-```bash
-git clone https://github.com/elcruzo/gui-calc.git
-cd gui-calc
-python3 index.py
-```
-
-You will see a change show up on the text grid with each click of a button, displaying the result when you perform operations.
-
- 
 
 ## Contributions
 
@@ -78,4 +64,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Have fun exploring my GUI Calculator! If you have any questions or run into issues, don't hesitate to ask for help.
+Have fun exploring my Robot! If you have any questions or run into issues, don't hesitate to ask for help.
