@@ -1,6 +1,6 @@
 # An Obstacle Avoiding Robot in Arduino
 
-Welcome to this repository containing the source code for an Obstacle Avoidance Robot built with Arduino (A C++ Framework).
+Welcome to this repository containing the source code for an Obstacle Avoidance Robot built in Arduino.
 
 Note: Due to the presence of hardware components, the complete Arduino UNO [kit](https://store.arduino.cc/products/arduino-starter-kit-multi-language) is necessary to see the robot in operation.
 
