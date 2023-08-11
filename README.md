@@ -43,18 +43,17 @@ To run this implementation, you need:
 
 ## Usage
 
-1. Navigate to the project directory containing the `index.py` file.
+1. Navigate to the project directory containing the `index.ino` file.
 
-2. Open the `index.py` file in your preferred text editor or IDE.
+2. Open the `index.ino` file in the Arduino IDE.
 
-3. Run the `index.py` script using the following command:
+3. Include the downloaded libraries in your Arduino IDE by:
+   
+   Go to sketch >> Include Library >> Add .ZIP File >> Select the Downloaded libraries (ZIP files)
 
-   ```bash
-   python3 index.py
-   ```
+4. Upload the `index.ino` sketch to the Arduino UNO using a data-transfer USB-B cord (included in the complete Arduino kit)
 
-6. Upon execution, the script will present a pop-up displaying the familiar calculator interface, allowing you to proceed with its utilization.
-
+5. Upon uploading, you can proceed to see the assembled robot (with the Arduino UNO) in action.
 ## Example
 
 Here's a brief example of how to run the code:
