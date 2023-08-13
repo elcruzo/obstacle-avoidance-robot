@@ -41,7 +41,7 @@ Alternatively, you can download the `NewPing` and `Servo` libraries [here](https
 
    If Python is not installed, you can download it from the official [Arduino website](https://www.arduino.cc/en/software/).
 
-3. Install the `AFMotor` library inside the Arduino IDE with [these](https://learn.adafruit.com/adafruit-motor-shield/library-install) steps.
+3. Install the `AFMotor` library in the Arduino IDE with [these](https://learn.adafruit.com/adafruit-motor-shield/library-install) steps.
 
 ## Usage
 
@@ -49,7 +49,7 @@ Alternatively, you can download the `NewPing` and `Servo` libraries [here](https
 
 2. Open the `index.ino` file in the Arduino IDE.
 
-3. Include the downloaded libraries in your Arduino IDE by:
+3. Include the downloaded libraries (the `NewPing` and `Servo`) in your Arduino IDE by:
    
    Go to sketch >> Include Library >> Add .ZIP File >> Select the Downloaded libraries (ZIP files)
 
