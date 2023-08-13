@@ -21,7 +21,6 @@ This robot is designed to navigate its environment while identifying obstacles i
 To run this implementation, you need:
 
 - Arduino IDE
-- The `AFMotor` library (follow the steps [here](https://learn.adafruit.com/adafruit-motor-shield/library-install) to install the library)
 - The `NewPing` library (follow the steps [here](https://github.com/livetronic/Arduino-NewPing) to install the library)
 - The `Servo` library (follow the steps [here](https://github.com/arduino-libraries/Servo.git) to install the library)
 
@@ -41,6 +40,8 @@ Alternatively, you can download the `NewPing` and `Servo` libraries [here](https
    'Arduino IDE' in the apps list on your machine.
 
    If Python is not installed, you can download it from the official [Arduino website](https://www.arduino.cc/en/software/).
+
+3. Install the `AFMotor` library inside the Arduino IDE with [these](https://learn.adafruit.com/adafruit-motor-shield/library-install) steps.
 
 ## Usage
 
