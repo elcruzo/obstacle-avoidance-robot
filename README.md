@@ -31,8 +31,8 @@ Alternatively, you can download the `NewPing` and `Servo` libraries [here](https
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/elcruzo/obstacle-avoidance-robot.git
-   cd obstacle-avoidance-robot
+   git clone https://github.com/elcruzo/vision.git
+   cd vision
    ```
 
 2. Ensure you have the Arduino IDE installed. You can check by searching:
@@ -67,4 +67,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Have fun exploring my Robot! If you have any questions or run into issues, don't hesitate to ask for help.
+Have fun using my Robot! If you have any questions or run into issues, don't hesitate to ask for help.
